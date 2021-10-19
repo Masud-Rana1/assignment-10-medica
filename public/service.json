@@ -1,0 +1,39 @@
+[
+    {"id":1,
+        "name": "CHILD CARE",
+         "price": "200",
+         "description": "Hammond also fed into his database images of children without a genetic disorder, creating a composite of a normal child. For 30 of the 700 facially characteristic disorders, Hammond's program offers around 90 percent accuracy in diagnosis. These are generally the most easily recognizable conditions, such as Williams syndrome.",
+          "img": "https://i.ibb.co/F8zzJ9Q/child-Care-1.jpg"
+        },
+    {"id":2,
+        "name": "CEMO THERAPY",
+         "price": "8000",
+         "description": "Cemo therapy uses curement for cancer patients.Chemotherapy is the use of drugs to destroy cancer cells. It usually works by keeping the cancer cells from growing, dividing, and making more cells. Because cancer cells usually grow and divide faster than normal cells, chemotherapy has more of an effect on cancer cells",
+          "img": "https://i.ibb.co/C0rgxfg/cemotharapy-1.jpg"
+        },
+    {"id":3,
+        "name": "C.T SCAN",
+         "price": "150",
+         "description": "A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels and soft tissues inside your body. CT scan images provide more-detailed information than plain X-rays do.",
+          "img": "https://i.ibb.co/8Nz38Pk/citiscan-1.jpg"
+        },
+    {"id":4,
+        "name": "HEART TREATMENT",
+         "price": "180",
+         "description": "treatment for heart disease usually includes: Lifestyle changes. You can lower your risk of heart disease by eating a low-fat and low-sodium diet, getting at least 30 minutes of moderate exercise on most days of the week, quitting smoking, and limiting alcohol intake. Medications",
+          "img": "https://i.ibb.co/C5fVDDj/heartsservice-1.jpg"
+        },
+    {"id":5,
+        "name": "ORTHOPEDICS",
+         "price": "100",
+         "description": "Orthopedics is a medical specialty that focuses on the diagnosis, correction, prevention, and treatment of patients with skeletal deformities - disorders of the bones, joints, muscles, ligaments, tendons, nerves and skin. ... The physicians who specialize in this area are called orthopedic surgeons or orthopedists.",
+          "img": "https://i.ibb.co/44Sk4q8/orthopedics-1.jpg"
+        },
+    {"id":6,
+        "name": "SURGERY",
+         "price": "300",
+         "description": "Surgery is an invasive technique with the fundamental principle of physical intervention on organs/organ systems/tissues for diagnostic or therapeutic reasons. As a general rule, a procedure is considered surgical when it involves cutting of a person's tissues or closure of a previously sustained wound.",
+          "img": "https://i.ibb.co/Lt18Wdr/sergury-Service-1.jpg"
+        }
+         
+]

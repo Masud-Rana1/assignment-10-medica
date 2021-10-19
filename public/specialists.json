@@ -1,0 +1,39 @@
+[
+    {"id":1,
+        "name": "DAVID ANDERSON",
+         "especialist": "CHILD SPECIALIST",
+         "description": "Director, Inherited Cardiac Arrhythmias Program Assistant Professor of Pediatrics, Harvard Medical School",
+          "img": "https://i.ibb.co/544fwJf/specialist1.jpg"
+        },
+    {"id":2,
+        "name": "Aya Abu-El-Haija, MD ",
+         "especialist": "MEDICINE",
+         "description": "Attending Physician, Division of Genetics and Genomics Instructor of Medicine, Harvard Medical School",
+          "img": "https://i.ibb.co/Fmf4Lnh/dpecialist2.jpg"
+        },
+    {"id":3,
+        "name": "Kathryn Ackerman, MD, MPH ",
+         "especialist": "SPORTS MEDICINE",
+         "description": "Physician, Sports Medicine Division; Director, Female Athlete Program Associate Professor of Medicine, Harvard Medical School",
+          "img": "https://i.ibb.co/xDZLC4j/spealist3.jpg"
+        },
+    {"id":4,
+        "name": "Kathryn Ackerman, MD, MPH ",
+         "especialist": "ORTHOPEDICS",
+         "description": "Director of Orthodontics; Senior Associate, Orthodontics Program Assistant Professor, Developmental Biology, Harvard School of Dental Medicine",
+          "img": "https://i.ibb.co/VqRyHms/spealist4.jpg"
+        },
+    {"id":5,
+        "name": "Jessica Addison, MD, MS ",
+         "especialist": "cancer specialist",
+         "description": "Attending Physician, Division of Adolescent/Young Adult Medicine; Co-Medical Director, Boston HAPPENS Instructor of Pediatrics, Harvard Medical School",
+          "img": "https://i.ibb.co/qjryf8V/spealist5.jpg"
+        },
+    {"id":6,
+        "name": "Eelam A. Adil, MD, MBA, FAAP ",
+         "especialist": "Otolaryngology",
+         "description": "Associate, Department of Otolaryngology and Communication Enhancement Assistant Professor of Otolaryngology, Harvard Medical School",
+          "img": "https://i.ibb.co/DDxNQXK/spealist6.jpg"
+        }
+         
+]
